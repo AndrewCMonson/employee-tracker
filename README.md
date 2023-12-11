@@ -26,8 +26,9 @@ Clone the repo onto your local machine.
 - Step 3: Configure your database by entering ```source schema.sql```
 - Step 4: Seed your database by entering ```source seed.sql```
 - Step 5: Exit mysql
-- Step 6: In your terminal cd to the root folder and run ```npm start```
-- Step 7: Follow prompts to manage database of employees
+- Step 6: run ```npm i```
+- Step 7: In your terminal cd to the root folder and run ```npm start```
+- Step 8: Follow prompts to manage database of employees
 
 ## Video Walkthrough
 Click [here](https://drive.google.com/file/d/1y0pqPC9HQ1M7gzhRsVLdf3h3RfDbTz0w/view) to view a video walkthrough.
