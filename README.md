@@ -30,7 +30,7 @@ Clone the repo onto your local machine.
 - Step 7: Follow prompts to manage database of employees
 
 ## Video Walkthrough
-Click [here](https://drive.google.com/file/d/1H7VE6iaoCtaG0sVRiaNbJbTi8TCc9m3a/view) to view a video walkthrough.
+Click [here](https://drive.google.com/file/d/1y0pqPC9HQ1M7gzhRsVLdf3h3RfDbTz0w/view) to view a video walkthrough.
 
 ## Contributing Guidelines
 Fork the repo as you'd like and make any changes. If you'd like your changes included in the source code, please use my email below to contact me.
